@@ -53,4 +53,6 @@ Bônus honesto, fora da fala: por causa da libração, daqui da Terra a gente ch
 
 ## Rascunho
 
-Ainda não feito. Vem depois do sim do roteiro.
+`npm run video -- rascunho lua_lado` (voz-guia espeak-ng). 43,8 s, 15 planos longos num palco só, **0 alertas e 0 avisos** na conferência. O plano é gerado por `gera_plano.mjs` (a volta da Lua é feita de pontos a cada 10° na órbita, e o giro da Lua acompanha o ângulo para a marca apontar sempre para a Terra).
+
+A conferir no vídeo: o último segundo da cauda deixa a Lua encostando na borda direita, e as duas trocas de vista (de lado para de cima, em A3 e D1.4) precisam ser vistas em movimento.

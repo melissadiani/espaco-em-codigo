@@ -35,14 +35,14 @@ Análise de 525 quadros a 12 qps (43.8 s).
 | D1.3 | e foi freando o giro dela | puxao, giro | puxao 100%, giro 100% | ok |
 | D1.4 | até travar assim. | marca, terra | marca 100%, terra 100% | ok |
 | Q1.1 | E se ela girasse | lua, giro | lua 100%, giro 100% | ok |
-| Q1.2 | só um pouquinho | giro, marca | giro 100%, marca 0% | ALERTA |
-| Q1.3 | mais rápido? | giro, marca | giro 100%, marca 22% | ALERTA |
+| Q1.2 | só um pouquinho | giro, marca | giro 100%, marca 100% | ok |
+| Q1.3 | mais rápido? | giro, marca | giro 100%, marca 100% | ok |
 
 ## Planos
 
 | plano | de | dura | novo | herói | |
 |---|---|---|---|---|---|
-| p01 | 0.00 | 3.50 | a Lua grande e a Terra embaixo | lua 16% da altura | herói cortado pela borda |
+| p01 | 0.00 | 3.50 | a Lua grande e a Terra embaixo | lua 14% da altura | ok |
 | p02 | 3.50 | 3.83 | a marca acende na cara da Lua, apontando para a Terra | — | ok |
 | p03 | 7.33 | 4.33 | a câmera sobe; o anel da órbita aparece | — | ok |
 | p04 | 11.67 | 3.42 | a Lua anda pela órbita sem girar | — | ok |
@@ -54,22 +54,16 @@ Análise de 525 quadros a 12 qps (43.8 s).
 | p10 | 28.00 | 1.92 | recua até ver a órbita de novo | — | ok |
 | p11 | 29.92 | 3.25 | a Lua dá a volta girando junto, a marca sempre na Terra | — | ok |
 | p12 | 33.17 | 2.58 | a Terra e a Lua de lado, o fio do puxão | — | ok |
-| p13 | 35.75 | 3.33 | o giro rápido vai freando até travar | lua 13% da altura | ok |
-| p14 | 39.08 | 4.67 | a Lua volta a andar e a marca escorrega para fora | — | ok |
+| p13 | 35.75 | 1.50 | o giro rápido vai freando até travar | lua 13% da altura | ok |
+| p14 | 37.25 | 1.83 | a câmera sobe: a Lua travada, a marca na Terra | — | ok |
+| p15 | 39.08 | 4.67 | a Lua volta a andar e a marca escorrega para fora | — | ok |
 
 ## Resultado
 
-**2 alerta(s)** (corrija antes de mostrar):
+**Nenhum alerta.**
 
-- Q1.2 "só um pouquinho": pede "marca" e a tela mostra só 0% do tempo
-- Q1.3 "mais rápido?": pede "marca" e a tela mostra só 22% do tempo
 
-5 aviso(s) (confira no quadro):
+Nenhum aviso.
 
-- p01 (0.0 s): herói cortado pela borda
-- p01: "terra" fica atrás da legenda (faixa de 58% a 68% da altura) por 2.9 s. Suba a imagem com "compo": {"y": 0.34}, afaste a câmera, ou, se for de propósito, ponha "veu": true (escurece embaixo) ou "faixa": false nesse plano
-- p02: "terra" fica atrás da legenda (faixa de 58% a 68% da altura) por 3.5 s. Suba a imagem com "compo": {"y": 0.34}, afaste a câmera, ou, se for de propósito, ponha "veu": true (escurece embaixo) ou "faixa": false nesse plano
-- p03: "terra" fica atrás da legenda (faixa de 58% a 68% da altura) por 0.6 s. Suba a imagem com "compo": {"y": 0.34}, afaste a câmera, ou, se for de propósito, ponha "veu": true (escurece embaixo) ou "faixa": false nesse plano
-- p06: "lua" fica atrás da legenda (faixa de 58% a 68% da altura) por 0.8 s. Suba a imagem com "compo": {"y": 0.34}, afaste a câmera, ou, se for de propósito, ponha "veu": true (escurece embaixo) ou "faixa": false nesse plano
 
 Folha de contato (1 quadro por segundo): `saida/folha.jpg`
