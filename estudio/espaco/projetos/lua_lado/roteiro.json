@@ -1,0 +1,119 @@
+{
+ "titulo": "Por que a gente nunca vê o outro lado da Lua?",
+ "pergunta_mae": "Por que a gente nunca vê o outro lado da Lua?",
+ "fontes": [
+  "A Lua está em rotação sincronizada (travamento por maré): o período de rotação em torno do próprio eixo é igual ao período orbital em torno da Terra, cerca de 27,3 dias (mês sideral). Fonte: NASA, Moon Fact Sheet (nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html) e NASA Science, 'Tidal Locking' (science.nasa.gov/moon/tidally-locked).",
+  "O travamento veio do puxão de maré da Terra sobre a Lua, que deformou a Lua e freou a rotação dela até os dois períodos ficarem iguais; isso aconteceu cedo na história da Lua. Fonte: NASA Science, 'Tidal Locking'.",
+  "Por causa da libração, da Terra se vê cerca de 59% da superfície da Lua ao longo do tempo (não é dito no vídeo; a fala não afirma 'exatamente metade'). Fonte: NASA Science, 'Moon in Motion' / libração.",
+  "O mês das fases (sinódico, 29,5 dias) é diferente do sideral (27,3 dias); o vídeo usa o sideral."
+ ],
+ "voz_guia": {
+  "mac": "Luciana",
+  "taxa": 190
+ },
+ "falas": [
+  {
+   "id": "A1",
+   "pausa": 0.3,
+   "pedacos": [
+    "Por que a gente nunca vê|lua,terra",
+    "o *outro lado* da Lua?|lua,terra"
+   ]
+  },
+  {
+   "id": "A2",
+   "pausa": 0.3,
+   "pedacos": [
+    "Ela mostra sempre|lua,marca",
+    "esta mesma *cara*,|marca",
+    "virada pra Terra.|marca,terra"
+   ]
+  },
+  {
+   "id": "A3",
+   "pausa": 0.45,
+   "pedacos": [
+    "Muita gente acha|lua",
+    "que ela nem *gira*.|lua,orbita"
+   ]
+  },
+  {
+   "id": "B1",
+   "pausa": 0.25,
+   "pedacos": [
+    "Então vamos fazer isso:|lua,orbita",
+    "a Lua dá a volta|lua,orbita",
+    "*sem girar*.|lua,marca"
+   ]
+  },
+  {
+   "id": "B2",
+   "pausa": 0.2,
+   "pedacos": [
+    "Olha a marca:|marca",
+    "na metade do caminho,|marca,orbita",
+    "ela aponta pra *fora*,|marca"
+   ]
+  },
+  {
+   "id": "B3",
+   "pausa": 0.45,
+   "pedacos": [
+    "e a gente ia ver|ladoOculto,terra",
+    "o *outro lado*.|ladoOculto"
+   ]
+  },
+  {
+   "id": "B4",
+   "pausa": 0.5,
+   "pedacos": [
+    "Mas não é isso|lua,terra",
+    "que *acontece*.|lua,terra"
+   ]
+  },
+  {
+   "id": "C1",
+   "pausa": 0.2,
+   "pedacos": [
+    "A Lua *gira*, sim,|lua,giro",
+    "só que bem devagar:|giro"
+   ]
+  },
+  {
+   "id": "C2",
+   "pausa": 0.2,
+   "pedacos": [
+    "uma volta em torno de si|giro,lua",
+    "a cada *vinte e sete* dias,|giro"
+   ]
+  },
+  {
+   "id": "C3",
+   "pausa": 0.5,
+   "pedacos": [
+    "o *mesmo tempo*|giro,orbita",
+    "da volta|orbita,lua",
+    "em torno da Terra.|orbita,terra,marca"
+   ]
+  },
+  {
+   "id": "D1",
+   "pausa": 0.35,
+   "pedacos": [
+    "E isso não é sorte.|lua,terra",
+    "A Terra puxou a Lua|puxao,lua",
+    "e foi *freando* o giro dela|puxao,giro",
+    "até travar assim.|marca,terra"
+   ]
+  },
+  {
+   "id": "Q1",
+   "pausa": 0.2,
+   "pedacos": [
+    "E se ela girasse|lua,giro",
+    "só um pouquinho|giro,marca",
+    "mais *rápido*?|giro,marca"
+   ]
+  }
+ ]
+}
