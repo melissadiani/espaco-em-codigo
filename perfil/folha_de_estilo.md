@@ -1,6 +1,6 @@
 # Folha de estilo de edição (vídeos gravados por você)
 
-**Situação: RASCUNHO, esperando a sua aprovação.** Enquanto estiver assim, o agente não usa esta folha. Depois do sim, troque para "APROVADA" e ela vale em toda edição dos seus vídeos gravados. Onde ela e o `perfil_da_casa.md` discordarem, vale o perfil.
+**Situação: APROVADA em 09/11/2026.** Vale em toda edição dos seus vídeos gravados. Para mudar algo, edite aqui ou peça ao agente. Onde ela e o `perfil_da_casa.md` discordarem, vale o perfil.
 
 Ela nasceu do estudo de três Reels (gravações de tela em `referencias/estilo/`, fora do git). Daqui saíram só **princípios e números**: nenhuma fonte, cor, frase, desenho ou som desses criadores entra nos seus vídeos. A identidade abaixo é a sua, tirada do próprio kit (canal LABS).
 
@@ -75,8 +75,8 @@ O que **não** consegui medir: os efeitos sonoros um a um (eu não escuto; vejo 
 
 ---
 
-## Para você decidir antes de aprovar
-1. Ouro como cor de destaque está bom, ou prefere outra?
-2. Legenda de **uma palavra por vez** (como nas referências) ou frases curtas de 2 a 3 palavras?
-3. Quantos efeitos sonoros: os acima, ou nenhum?
-4. Algo que você viu nos Reels e **não** quer? (vai para "O que você já reprovou" no perfil)
+## Decisões da aprovação (09/11/2026)
+1. Cor de destaque: **ouro #FFD166**.
+2. Legenda: **uma palavra por vez**.
+3. Efeitos sonoros: **sim**, como descritos na seção 6.
+4. Nada dos Reels de referência foi reprovado.
