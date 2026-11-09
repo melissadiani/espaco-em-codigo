@@ -20,6 +20,10 @@ As skills são markdown simples e valem para qualquer agente.
 
 Na primeira vez, rode `node estudio/preparar.mjs --simular`, conte o que falta, peça um único sim e rode `node estudio/preparar.mjs --sim` (ele baixa só o que falta, para dentro do projeto, e roda o `doctor` no fim). Sem GPU, avise o tempo estimado de render antes de começar.
 
+## Edição de vídeos gravados pela pessoa
+
+Quando a pessoa mandar um vídeo gravado por ela para editar (cortar, legendar, pôr som e efeitos), siga **`perfil/folha_de_estilo.md`** (aprovada). Mostre um rascunho e espere o sim antes da versão final.
+
 ## Regras que valem em todo vídeo
 
 - O que está sendo dito tem de estar sendo visto. Um texto por vez: a legenda é a própria fala, uma palavra por vez.
